@@ -9,7 +9,6 @@ function App() {
       <h1>Welcome Pankaj</h1>
       
       </header>
-<
     </div>
   );
 }
